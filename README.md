@@ -13,6 +13,7 @@
 
 ### Test artifacts 
 [Тестовая документация &lpar;тест-кейсы, чек-листы, отчеты о дефекте&rpar;](https://docs.google.com/spreadsheets/d/1a-ZxqbpfnmstFrGQeopQQ45t5UTlmh15/edit?usp=sharing&ouid=108327411930301571724&rtpof=true&sd=true)
+[Коллекция в Postman](https://dark-trinity-728415.postman.co/workspace/New-Team-Workspace~0849b8eb-0761-403f-bce7-28bc924a54e5/request/23051850-489f26df-60d4-44e4-b353-cc394488c1af)
 
 ### Follow Me
 [![Header](https://img.shields.io/badge/Instagram-090909?style=for-the-badge&logo=instagram&logoColor=9939a3)](https://www.instagram.com/voloshintema/)
