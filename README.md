@@ -2,14 +2,14 @@
 ## I'm a Junior QA Engineer. 
 
 ### Language and Tools
-![Header](https://img.shields.io/badge/Jira-090909?style=flat-square&logo=jira&)
-![Header](https://img.shields.io/badge/Postman-090909?style=for-the-badge&logo=postman&logoColor=f76935)
-![Header](https://img.shields.io/badge/Swagger-090909?style=for-the-badge&logo=swagger&logoColor=7ede2b)
-![Header](https://img.shields.io/badge/Github-090909?style=for-the-badge&logo=github&logoColor=8cc4d7)
-![Header](https://img.shields.io/badge/AzureDevops-090909?style=for-the-badge&logo=azuredevops&logoColor=0074d0)
-![Header](https://img.shields.io/badge/MySQL-090909?style=for-the-badge&logo=mysql&logoColor=00618a)
-![Header](https://img.shields.io/badge/DevTools-090909?style=for-the-badge&logo=googlechrome&logoColor=2674f2)
-![Header](https://img.shields.io/badge/AndroidStudio-090909?style=for-the-badge&logo=androidstudio&logoColor=3ad07d)
+![Header](https://img.shields.io/badge/Jira-090909?style=for-the-badge&logo=jira)
+![Header](https://img.shields.io/badge/Postman-090909?style=for-the-badge&logo=postman)
+![Header](https://img.shields.io/badge/Swagger-090909?style=for-the-badge&logo=swagger)
+![Header](https://img.shields.io/badge/Github-090909?style=for-the-badge&logo=github)
+![Header](https://img.shields.io/badge/AzureDevops-090909?style=for-the-badge&logo=azuredevops)
+![Header](https://img.shields.io/badge/MySQL-090909?style=for-the-badge&logo=mysql)
+![Header](https://img.shields.io/badge/DevTools-090909?style=for-the-badge&logo=googlechrome)
+![Header](https://img.shields.io/badge/AndroidStudio-090909?style=for-the-badge&logo=androidstudio)
 
 
 ### Follow Me
