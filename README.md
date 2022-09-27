@@ -1,15 +1,5 @@
-[![Header](https://github.com/artichokeee/artichokeee/blob/main/assets/Frame%20635%20(3).png)
+[![Header]]
 ## I'm a Junir QA Engineer. 
-
-## Latest Youtube Videos
-
-<!-- YOUTUBE:START -->
-- [Советы для тестировщиков-новичков, которых не берут на работу](https://www.youtube.com/watch?v=aKou9zhGknU)
-- [Что не нужно указывать в резюме тестировщика &lpar;QA Engineer&rpar;?](https://www.youtube.com/watch?v=_euUKP098-U)
-- [Тестировщик это не нахлебник, а полноценный сотрудник!](https://www.youtube.com/watch?v=SPktZhy-Gm8)
-- [Почему тестировщик не будет получать 1000 долларов со старта?](https://www.youtube.com/watch?v=LJqhLm-Bo9A)
-- [Почему тестировщик это не разработчик?](https://www.youtube.com/watch?v=y0CNQjfHmWY)
-<!-- YOUTUBE:END -->
 
 ### Language and Tools
 ![Header](https://img.shields.io/badge/Jira-090909?style=for-the-badge&logo=jira&logoColor=136be1)
