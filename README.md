@@ -18,4 +18,4 @@
 [![Header](https://img.shields.io/badge/Twitter-090909?style=for-the-badge&logo=twitter&logoColor=1c96e8)](https://twitter.com/VADmitrievich)
 [![Header](https://img.shields.io/badge/vkontakte-090909?style=for-the-badge&logo=vk&logoColor=1c96e8)](https://vk.com/id53930654)
 
-![![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tema3093)](https://github.com/Tema3093/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tema3093&show_icons=true&theme=radical)
